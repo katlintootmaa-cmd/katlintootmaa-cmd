@@ -1,5 +1,3 @@
-# Kätlin Tootmaa
-
 <img src="portree.png" alt="Kätlin Tootmaa portreefoto" width="180">
 
 ## Minust
